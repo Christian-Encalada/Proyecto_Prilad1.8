@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Prilad</string>
+    <string name="empezar">EMPEZAR</string>
+
+    <string name="btn_iniciar_sesion">Iniciar Sesion</string>
+    <string name="btn_registrarse">Registrarse</string>
+    <string name="btn_registo">Confirmar Registro</string>
+    <string name="btn">Empezar</string>
+    <string name="btnVolver">Fin</string>
+    <string name="materias">Materias:</string>
+    <string name="tareas">Tareas:</string>
+    <string name="todo">TODO</string>
+    // Agregrar notas
+    <string name="uID_Usuario">UID del usuario</string>
+    <string name="correo_Usuario">Correo de usuario</string>
+    <string name="fecha_hora_actual">fecha y hora actual</string>
+    <string name="input_producto">Producto</string>
+    <string name="input_tareas">Tareas</string>
+    <string name="btn_Calendario">Calendario</string>
+    <string name="fecha">00/00/000</string>
+    <string name="estado">No finalizado</string>
+    <string name="btn_Entrar"> Ir a nota</string>
+    <string name="btn_Calendariotwo">Segundo Diseño</string>
+    <string name="btn_Calendario3">Tercer Diseño</string>
+    <string name="btn_guardarNota">Guardar Nota</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="clave">clave</string>
+    <string name="materia">materia</string>
+    <string name="hora">hora</string>
+    <string name="guardar">guardar</string>
+    <string name="consulta">consulta</string>
+    <string name="modifica">modifica</string>
+    <string name="elimina">elimina</string>
+    <string name="limpiar">limpiar</string>
+    <string name="cerrar">Cerrar Sesion</string>
+    <string name="cerrar_sesi_n">cerrar sesión</string>
+    <string name="agregar_fragment">agregar fragment</string>
+    <string name="agregar_activity">agregar activity</string>
+
+
+</resources>

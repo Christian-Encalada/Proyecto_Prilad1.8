@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080149593266",
+    "project_id": "prilad-70707",
+    "storage_bucket": "prilad-70707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080149593266:android:a2b4e800a3d8f684d30dab",
+        "android_client_info": {
+          "package_name": "com.chris.proyecto_prilad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080149593266-1edut3ej6ivuf678ld6fa7mln9jg8p26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyv_rvSEVilHeJUnXL3mTcmYKe8u-_khQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080149593266-1edut3ej6ivuf678ld6fa7mln9jg8p26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
